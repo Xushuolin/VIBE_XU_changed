@@ -4,7 +4,8 @@ Some additions, optimizations and modifications to the source code base based on
 ## Mainly modified the output type in the demo to show the predicted 3D joints.
 ## On the other hand, to achieve this effect, a new renderer was rewritten in Render and called in the demo.
 https://livebournemouthac-my.sharepoint.com/:v:/g/personal/s5529054_bournemouth_ac_uk/EeAguu3ZmZ9GhVDVSomgGpgB0YQXxMlNfgCRMDRvwcDUUA?e=TLg76c
-According kocabas (2019) to did
+
+##According kocabas (2020) to did
 
 ## References
 
